@@ -30,5 +30,7 @@ Used Hugging Face’s `distilbart-cnn-12-6` model to automatically summarize key
 ```bash
 pip install pandas matplotlib seaborn transformers
 
-Dataset from kaggle...
+**Dataset Source:**  
+[Supermarket Sales on Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+
 
